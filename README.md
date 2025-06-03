@@ -100,4 +100,4 @@ Frontend Developer • Code Crafter • Cat Fact Connoisseur
 ## 📜 License
 
 Feel free to use, modify, and share.
-Just don’t forget to credit the cat guy — me. 🐾
+Just don’t forget to credit the cat guy — Rex Jain. 🐾
